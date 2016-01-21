@@ -1,0 +1,6 @@
+D:\c#\cat\cat\bin\Debug\cat.exe.config
+D:\c#\cat\cat\bin\Debug\cat.exe
+D:\c#\cat\cat\bin\Debug\cat.pdb
+D:\c#\cat\cat\obj\Debug\cat.csprojResolveAssemblyReference.cache
+D:\c#\cat\cat\obj\Debug\cat.exe
+D:\c#\cat\cat\obj\Debug\cat.pdb
